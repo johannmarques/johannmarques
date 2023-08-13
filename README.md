@@ -27,3 +27,7 @@ There're many applications that arouse my curiosity. To summarise them, I genera
 
 ### Document preparation
 ![latex](https://img.shields.io/badge/LaTeX-white?style=for-the-badge&logo=latex&logoColor=gray) ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## 📮 Contact
+
+You can [send me an email](mailto:johannmarques.profissional@outlook.com)
