@@ -1,4 +1,4 @@
-# Hi, I’m @johannmarques
+# Hi, I’m Johann ~ Bach ~ Freitas
 Economics MSc Candidate @ PUC-Rio
 
 - 👀 I’m interested in Data Science/Econometrics
