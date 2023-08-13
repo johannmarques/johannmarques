@@ -1,4 +1,4 @@
-# Hi, I’m Johann
+# Hi ✌🏾 I’m Johann
 
 Economics MSc Candidate @ PUC-Rio
 
@@ -12,11 +12,13 @@ $$
 \mathrm{Johann} \in \mathrm{Machine Learning} \cap \mathrm{Econometrics}.
 $$
 
-There're many applications that arouse my curiosity. To summarise them, I generated a wordcloud (you can see the code [here](https://github.com/johannmarques/wordcloud))
+There're many applications that arouse my curiosity. To summarise them, I generated a wordcloud (you can see the code [here](https://github.com/johannmarques/wordcloud)).
 
 <p align = "center">
 <img src="https://raw.githubusercontent.com/johannmarques/wordcloud/master/wordcloud.png"/>
 </p>
+
+Moreover, we all agree that `R` $\succ$ `Python`, right?
 
 ## 🔨 Toolkit
 
@@ -30,6 +32,24 @@ There're many applications that arouse my curiosity. To summarise them, I genera
 
 ### Document preparation
 ![latex](https://img.shields.io/badge/LaTeX-white?style=for-the-badge&logo=latex&logoColor=gray) ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## 🎓 Education
+
+### Master's in Economics
+
+🗓️ 2023-In progress
+
+🏫 PUC-Rio
+
+🏁 GPA: <span style="color: gold;">★★★★★★★★☆☆</span>
+
+### Bachelor's in Economics
+
+🗓️ 2018-2022
+
+🏫 Fluminense Federal University
+
+🏁 GPA: <span style="color: gold;">★★★★★★★★★☆</span>
 
 ## 📮 Contact
 
