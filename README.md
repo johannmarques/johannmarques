@@ -51,6 +51,15 @@ Moreover, we all agree that `R` $\succ$ `Python`, right?
 
 🏁 GPA: <span style="color: gold;">★★★★★★★★★☆</span>
 
+## 👨‍💻 Some Projects
+
+### ⚽ [attendance](https://github.com/johannmarques/attendance)
+
+Flamengo moves brazilian soccer ahead! I used brazilian league data from [Base dos Dados](https://basedosdados.org/) to compare the average attendance between Flamengo and non-Flamengo matches
+<p align = "center">
+<img src="https://raw.githubusercontent.com/johannmarques/attendance/master/attendance.png"/>
+</p>
+
 ## 📮 Contact
 
 You can [send me an email](mailto:johannmarques.profissional@outlook.com)
