@@ -60,6 +60,10 @@ Flamengo moves brazilian soccer ahead! I used `R` and Brazilian league data from
 <img src="https://raw.githubusercontent.com/johannmarques/attendance/master/attendance.png"/>
 </p>
 
+### $\hat{\beta}$ [mle](https://github.com/johannmarques/mle)
+
+Even though GitHub took the $\LaTeX$ template into account and considers this a `TeX` project, this is actually a Graduate Econometrics assignment solved in `R` using `Sweave` to integrate it to `TeX`. Take a look at the files `main.Rnw` (`R` + `TeX` file) and `main.pdf` (compiled document).
+
 ## 📮 Contact
 
 You can [send me an email](mailto:johannmarques.profissional@outlook.com)
