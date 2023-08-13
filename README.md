@@ -14,7 +14,9 @@ $$
 
 There're many applications that arouse my curiosity. To summarise them, I generated a wordcloud (you can see the code [here](https://github.com/johannmarques/wordcloud))
 
-![](https://raw.githubusercontent.com/johannmarques/wordcloud/master/wordcloud.png)
+<p align = "center">
+<img src="https://raw.githubusercontent.com/johannmarques/wordcloud/master/wordcloud.png"/>
+</p>
 
 ## 🔨 Toolkit
 
