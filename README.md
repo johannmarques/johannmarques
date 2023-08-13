@@ -11,7 +11,9 @@ $$
 \mathrm{Johann} \in \mathrm{Machine Learning} \cap \mathrm{Econometrics}.
 $$
 
-There're many applications that arouse my curiosity. To summarise them, I generate a
+There're many applications that arouse my curiosity. To summarise them, I generated a wordcloud (you can see the code [here]()
+
+![](wordcloud.png)
 
 ## 🔨 Toolkit
 
