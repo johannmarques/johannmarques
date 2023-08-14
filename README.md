@@ -4,7 +4,13 @@ Economics MSc Candidate @ PUC-Rio
 
 ****
 
-Hello there ~the angel from my nighmare~,
+Hello there ~the angel from my nighmare~
+
+```
+>>> print(Johann.nationality == 'German' or JohannsParents.nationality == 'German')
+False
+# Ok?
+```
 
 I’m interested in Data Science, mainly Machine Learning methods and it's intersection with traditional Econometrics. Formally,
 
