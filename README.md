@@ -59,6 +59,13 @@ Moreover, we all agree that `R` $\succ$ `Python`, right?
 
 ## 👨‍💻 Some Projects
 
+### 🚩 [flags](https://github.com/johannmarques/flags)
+
+Using Brazilian Census data, I generated wordclouds summarising municipalities population for each Brazilian state, using it's flag as shape.
+<p align = "center">
+<img src="https://github.com/johannmarques/flags/blob/master/figures/Par%C3%A1.png?raw=true"/><img src="https://github.com/johannmarques/flags/blob/master/figures/Rio%20Grande%20do%20Sul.png?raw=true"/>
+</p>
+
 ### ⚽ [attendance](https://github.com/johannmarques/attendance)
 
 Flamengo moves brazilian soccer ahead! I used `R` and Brazilian league data from [Base dos Dados](https://basedosdados.org/) to compare the average attendance between Flamengo and non-Flamengo matches
