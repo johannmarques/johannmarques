@@ -61,7 +61,7 @@ Moreover, we all agree that `R` $\succ$ `Python`, right?
 
 ### 🚩 [flags](https://github.com/johannmarques/flags)
 
-Using Brazilian Census data, I generated wordclouds summarising municipalities population for each Brazilian state, using it's flag as shape.
+Using Brazilian Census data, I generated wordclouds summarising municipalities population for each Brazilian state, using it's flag as shape. Flags for all states were automatically collected using `BeautifulSoup`for web scrapping.
 <p align = "center">
 <img src="https://github.com/johannmarques/flags/blob/master/figures/Par%C3%A1.png?raw=true"/><img src="https://github.com/johannmarques/flags/blob/master/figures/Rio%20Grande%20do%20Sul.png?raw=true"/>
 </p>
