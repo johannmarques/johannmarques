@@ -73,6 +73,13 @@ Flamengo moves brazilian soccer ahead! I used `R` and Brazilian league data from
 <img src="https://raw.githubusercontent.com/johannmarques/attendance/master/attendance.png"/>
 </p>
 
+### 🇺🇸 [USBalance](https://github.com/johannmarques/USBalance)
+
+I used Bureal of Economic Analysis (BEA) data for replicating and updating some of the analysis performed by [Maggiori (2017)](https://www.aeaweb.org/articles?id=10.1257/aer.20130479), for a Macro course.
+<p align = "center">
+<img src="https://raw.githubusercontent.com/johannmarques/USBalance/master/figures/composition.png"/>
+</p>
+
 ### $\hat{\beta}$ [mle](https://github.com/johannmarques/mle)
 
 Even though GitHub took the $\LaTeX$ template into account and considers this a `TeX` project, this is actually a Graduate Econometrics assignment solved in `R` using `Sweave` to integrate it to `TeX`. Take a look at the files `main.Rnw` (`R` + `TeX` file) and `main.pdf` (compiled document).
