@@ -28,7 +28,7 @@ Moreover, we all agree that `R` $\succ$ `Python`, right?
 
 ## 🔨 Toolkit
 
-### Programming
+### Programming (or Analysis)
 ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![julia](https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![pbi](https://img.shields.io/badge/Power%20Bi-edbe10?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### (Some) Libraries and resources
