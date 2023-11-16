@@ -39,6 +39,10 @@ Moreover, we all agree that `R` $\succ$ `Python`, right?
 ### Document preparation
 ![latex](https://img.shields.io/badge/LaTeX-white?style=for-the-badge&logo=latex&logoColor=gray) ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+### My most used languages
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannmarques&hide=tex&theme=tokyonight)
+
 ## 🎓 Education
 
 ### Master's in Economics
