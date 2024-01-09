@@ -84,9 +84,11 @@ I used Bureal of Economic Analysis (BEA) data for replicating and updating some 
 <img src="https://raw.githubusercontent.com/johannmarques/USBalance/master/figures/composition.png"/>
 </p>
 
-### $\hat{\beta}$ [mle](https://github.com/johannmarques/mle)
+### $\hat{\beta}$ [logit](https://github.com/johannmarques/logit)
 
-Even though GitHub took the $\LaTeX$ template into account and considers this a `TeX` project, this is actually a Graduate Econometrics assignment solved in `R` using `Sweave` to integrate it to `TeX`. Take a look at the files `main.Rnw` (`R` + `TeX` file) and `main.pdf` (compiled document).
+This project is a solution for a Graduate Econometrics assignment, covering Discrete Choice methods, including Nested and Mixed Logit, and also a Bootstrap exercise.
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/59314790/295233772-ebb6ec4c-fb48-4b74-ac55-2018ba2d8aa3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240109T142128Z&X-Amz-Expires=300&X-Amz-Signature=2dd327386388bb5088cddc32a0060aa924253f0aea08aec23ece94a28e972e53&X-Amz-SignedHeaders=host&actor_id=59314790&key_id=0&repo_id=453513042)
 
 ## 📮 Contact
 
