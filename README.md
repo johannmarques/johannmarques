@@ -4,7 +4,7 @@ Economics MSc Candidate @ PUC-Rio
 
 ****
 
-Hello there ~the angel from my nighmare~
+Hello there ~the angel from my nightmare~
 
 ```
 >>> print(Johann.nationality == 'German' or JohannsParents.nationality == 'German')
