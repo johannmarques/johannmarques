@@ -68,7 +68,7 @@ Moreover, we all agree that `R` $\succ$ `Python`, right?
 This project uses [this dataset](https://www.kaggle.com/datasets/dyutidasmahaptra/s-and-p-500-with-financial-news-headlines-20082024#) and [BERT](https://huggingface.co/docs/transformers/main/model_doc/bert) embeddings to predict S&amp;P indexes through news headlines.
 
 <p align = "center">
-<img src="https://github.com/johannmarques/NewsStock/blob/master/ModResults.png?raw=true"/><img src="https://github.com/johannmarques/NewsStock/blob/master/ModResults.png?raw=true"/>
+<img src="https://github.com/johannmarques/NewsStock/blob/master/ModResults.png?raw=true"/>
 </p>
 
 ### 🚩 [flags](https://github.com/johannmarques/flags)
