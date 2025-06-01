@@ -1,6 +1,7 @@
 # Hi ✌🏾 I’m Johann
 
-Economics MSc Candidate @ PUC-Rio
+Economics MSc
+O&G industry
 
 ****
 
